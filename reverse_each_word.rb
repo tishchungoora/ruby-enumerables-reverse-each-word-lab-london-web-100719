@@ -7,7 +7,7 @@ def reverse_each_word(string)
 end
 =end
 
-# Using .collect method and results
+# Using .collect method
 
 def reverse_each_word(string)
   arr = string.split
